@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="scala-databricks-deploy-poc">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\gupta\IdeaProjects\scala-databricks-deploy-poc\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
