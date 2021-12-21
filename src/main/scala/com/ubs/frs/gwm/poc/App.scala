@@ -8,7 +8,7 @@ object App {
   def foo(x : Array[String]) = x.foldLeft("")((a,b) => a + b)
   
   def main(args : Array[String]) {
-    println( "Hello World! This is Shyam" )
+    println( "Hello World! This is Spartan" )
     println("concat arguments = " + foo(args))
   }
 
